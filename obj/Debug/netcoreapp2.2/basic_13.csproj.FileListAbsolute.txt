@@ -1,0 +1,11 @@
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.csprojAssemblyReference.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfo.cs
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/bin/Debug/netcoreapp2.2/basic_13.deps.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.dev.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/bin/Debug/netcoreapp2.2/basic_13.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/bin/Debug/netcoreapp2.2/basic_13.pdb
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/lanuguage_essentials/basic_13/obj/Debug/netcoreapp2.2/basic_13.pdb
